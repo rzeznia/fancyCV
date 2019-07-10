@@ -76,7 +76,7 @@ body {
     margin-right: auto;
     font-size: 26px;
     display: block;
-
+    margin-bottom: 20px;
 }
 .element-left{
     margin-left: auto;
@@ -102,6 +102,7 @@ body {
     margin-right: auto;
     font-size: 26px;
     margin-top: 20px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
@@ -139,6 +140,7 @@ body {
 }
 .left-section{
     color: #aaa8a8;
+    text-align: center;
 }
 /* .position{ } */
 .position-details{ margin-bottom: 30px;}
